@@ -1,7 +1,7 @@
 # Linear Control Exercises
 
 This repository contains exercises, solutions, and resources related to linear control systems. It is designed to assist students and professionals in mastering key concepts of linear control theory through practical problem-solving and implementation.
-###Supervisor:Dr,taghirad
+# Supervisor:Dr.taghirad
 
 ## Topics Covered
 - System Modeling
